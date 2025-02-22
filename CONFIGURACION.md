@@ -8,7 +8,7 @@ sudo nano /etc/nftables.conf
 
 Añade o modifica las siguientes reglas dentro del bloque table *inet filter*:
 
-![img](img/immg4.png)
+![img](img/img4.png)
 
 Guarda el archivo (CTRL + X, Y, Enter) y recarga la configuración:
 
@@ -29,7 +29,7 @@ Para asegurarte de que los puertos 80 y 443 están bloqueados, usa nmap (si no l
 nmap -p 80,443 -Pn <TU_IP>
 ```
 
-![img](img/immg5.png)
+![img](img/img5.png)
 
 Si quieres dejar desactivado NFTables podremos hacer el siguiente comando:
 
