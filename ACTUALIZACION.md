@@ -5,3 +5,7 @@ Antes de comenzar, actualiza los paquetes de Ubuntu:
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+
+ ![portada](img/portada.jpg)
+
+
