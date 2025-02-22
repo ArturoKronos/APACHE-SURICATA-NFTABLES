@@ -43,7 +43,7 @@ Para que se ejecute en cada reinicio:
 sudo systemctl enable suricata
 ```
 
-3. Instalar NFTables
+## 3. Instalar NFTables
 
 NFTables reemplaza a iptables en sistemas modernos y nos permitirá bloquear los puertos 80 y 443.
 
