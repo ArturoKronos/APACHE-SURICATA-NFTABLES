@@ -41,4 +41,5 @@ Si quieres dejar activar NFTables podremos hacer el siguiente comando:
 
 ```
 sudo systemctl enable --now nftables
-``
+```
+
