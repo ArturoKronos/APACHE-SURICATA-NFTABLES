@@ -6,6 +6,6 @@ Antes de comenzar, actualiza los paquetes de Ubuntu:
 sudo apt update && sudo apt upgrade -y
 ```
 
- ![portada](img/img1.jpg)
+ ![img](img/img1.jpg)
 
 
